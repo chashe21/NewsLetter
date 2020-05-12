@@ -68,3 +68,9 @@ app.listen(process.env.PORT || 3000, () => {
 
 // mailChimp ListID
 // 96b97c6427
+
+//git
+// https://git.heroku.com/shrouded-chamber-48328.git
+
+//web
+// https://shrouded-chamber-48328.herokuapp.com/
